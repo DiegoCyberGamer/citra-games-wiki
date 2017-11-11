@@ -1,0 +1,19 @@
+title = "Shin Megami Tensei- Devil Survivor Overclocked"
+description = "Atlus, Tactic RPG, Shin Megami Tensei"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000038800"
+region = "usa"
+release_date = "2009-01-15"
+
+[[testcases]]
+title = "0004000000038800"
+compatibility = "0"
+date = "2017-11-11"
+version = "HEAD-7ef905e"
+cpu = "Intel Core I3-5005U"
+gpu = "Intel HD Graphics 5500"
+os = "Windows 10"
+author = "DiegoCyberGamer"
